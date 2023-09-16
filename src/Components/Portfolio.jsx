@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/computer.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Computer Image with Code";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Portfolio Website 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Created My Portfolio Using Technology like React , JavaScript .",
+    url: "https://vaibhavofficialportfolio.netlify.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Countdown Timer",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Created a Countdown Timer using JavaScript.",
+    url: "https://bucolic-chebakia-ec0430.netlify.app/",
   },
   {
-    title: "My Resume Site",
+    title: "Random Color Picker",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created a Random Color Picker using JavaScript.",
+    url: "https://cute-dusk-fcb6d3.netlify.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Quiz Web App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created a Responsive Quiz App using JavaScript.",
+    url: "https://playful-frangipane-c122fb.netlify.app/",
   },
 ];
 
